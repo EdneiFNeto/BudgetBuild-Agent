@@ -1,7 +1,17 @@
-# BudgetBuild: Sistema de Orçamentos para Casa de Material de Construçã
+# BudgetBuild: Sistema de Orçamentos para Lojas de Material de Construção
 
-O texto apresenta a documentação técnica do BudgetBuild, um software de gestão e geração de orçamentos desenvolvido especificamente para lojas de material de construção. O sistema automatiza o ciclo de vendas completo, gerenciando um Catálogo de Produtos detalhado e facilitando a aplicação de descontos e o cálculo de frete nas cotações. As funcionalidades mais notáveis introduzidas recentemente incluem a Geração de Link de Pagamento seguro, suportando múltiplas formas de transação como Pix e cartão de crédito, e o Agendamento de Entrega que é acionado automaticamente após a confirmação do pagamento. Complementarmente, o material provê diversas tabelas de preços para fins de simulação e estabelece as regras de atuação para um assistente técnico, o Especialista BudgetBuild. Este especialista deve seguir uma conduta rigorosamente formal e objetiva e executar um fluxo de simulação de orçamento que inclui parâmetros logísticos específicos, como o prazo de entrega de até 7 dias úteis.
+O **BudgetBuild** é um software especializado em gestão e geração de orçamentos para lojas de material de construção, projetado para automatizar todo o ciclo de vendas. O sistema permite o gerenciamento eficiente de um **Catálogo de Produtos** detalhado, facilita a aplicação de descontos e realiza o cálculo automático de frete nas cotações.
 
+Entre os recursos mais recentes e relevantes do sistema, destacam-se:
 
-## Link Noteboock LM
+* **Geração de Link de Pagamento Seguro**: compatível com múltiplas formas de transação, incluindo Pix e cartão de crédito.
+* **Agendamento Automático de Entrega**: ativado após a confirmação do pagamento, garantindo maior agilidade e confiabilidade na logística.
+
+Além disso, a documentação inclui tabelas de preços para simulação e define as diretrizes de atuação do **Especialista BudgetBuild**, um assistente técnico que deve manter uma conduta formal e objetiva, seguindo um fluxo de simulação de orçamento que contempla parâmetros logísticos, como prazo de entrega de até 7 dias úteis.
+
+---
+
+## Link do agente no Notebook
+
 [BudgetBuild-notebooklm](https://notebooklm.google.com/notebook/edefb583-d94b-4026-a9e5-4ed2fd20bf91)
+
